@@ -1,1 +1,1 @@
-Print ("Learning jenkins")
+Print("Learning jenkins")
